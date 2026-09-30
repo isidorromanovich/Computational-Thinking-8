@@ -50,4 +50,11 @@ elif awnser == (" swamp"):
             elif awnser4 == " no" or awnser4 == " NO" or awnser4 == " No":
                 print ("The chicken gets angry because you don't pet it and eats you")
                 print ("Your in the stomach of a chicken")
-            else: ("That's not a kind awnser next time choose yes or no")
+            else: 
+                print ("That's not a kind awnser next time choose yes or no")
+        else: 
+            print ("That's not a kind awnser next time choose yes or no")
+    else: 
+        print ("That's not a kind awnser next time choose yes or no")
+else: 
+     print ("That's not a kind awnser next time choose stay here or swamp")
